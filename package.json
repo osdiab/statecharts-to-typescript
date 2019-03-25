@@ -6,6 +6,9 @@
   "author": "Omar Diab <me@omardiab.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "start": "ts-node lib/index.ts"
+  },
   "devDependencies": {
     "@types/node": "^11.11.6",
     "@types/pegjs": "^0.10.1",
