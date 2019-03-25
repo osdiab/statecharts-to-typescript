@@ -1,0 +1,9 @@
+{
+  "name": "statecharts-to-typescript",
+  "version": "0.0.1",
+  "description": "Convert a Sketch.systems statechart to TypeScript models",
+  "repository": "git@github.com:osdiab/statecharts-to-typescript.git",
+  "author": "Omar Diab <me@omardiab.com>",
+  "license": "MIT",
+  "private": false
+}
